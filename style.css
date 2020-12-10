@@ -1,0 +1,132 @@
+/* GENERAL */
+
+*
+{
+  margin: 0;
+  padding: 0;
+}
+
+body
+{
+  font-family: Arial, sans-serif;
+  font-size: 15px;
+}
+
+h1
+{
+  font-family: 'Crete Round', serif;
+  color: #444;
+}
+
+h2
+{
+  color: #444;
+  font-size: 45px;
+}
+
+ul
+{
+  list-style: none;
+}
+
+a
+{
+  text-decoration: none;
+  color: #444;
+}
+
+wrapper
+{
+  width: 940px;
+  margin: 0 auto;
+  padding: 0 10px;
+}
+
+.vert
+{
+  color: #008000;
+}
+
+/* HEADER */
+img
+{
+  float: none;
+  margin-top: 5px;
+  height: 115px;
+  margin-left: 200px;
+}
+
+header
+{
+  height: 120px;
+  margin-right: 100px;
+}
+
+header h1
+{
+  float: left;
+  margin-top: 32px;
+  margin-left: 100px;
+}
+
+header nav{
+  float: right;
+  margin-top: 50px;
+}
+
+header nav ul li
+{
+  float: left;
+  display: inline-block;
+}
+
+header nav ul li a
+{
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-right: 20px;
+}
+
+/* image principale */
+
+#main-image
+{
+  height: 580px;
+  background: url('images/lycee.jpg') center;
+
+}
+
+#main-image h2
+{
+  font-weight: normal;
+  text-transform: uppercase;
+  text-align: center;
+  padding: 150px 0 40px 0;
+  margin-bottom: 20px;
+  text-shadow:   -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+     1px 1px 0 #000,
+     1px 1px 2px #141414,
+     1px 1px 3px #141414,
+     1px 1px 5px #141414,
+     1px 1px 7px #141414,
+     1px 1px 10px #141414,
+     1px 1px 12px #141414,
+     1px 1px 18px #141414;color:#fff;
+}
+
+.button-1
+{
+  display: block;
+  width: 120px;
+  height: 50px;
+  background: #008000;
+  color: #FFF;
+  font-size: 20px;
+  margin: 0 auto;
+  line-height: 50px;
+  text-align: center;
+  border-radius: 9px;
+  font-family: 'Crete Round', serif;
+}
