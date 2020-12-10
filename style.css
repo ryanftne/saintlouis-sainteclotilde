@@ -12,6 +12,24 @@ body
   font-size: 15px;
 }
 
+h4
+{
+  font-size: 24px;
+  color: #444;
+}
+
+p
+{
+  line-height: 20px;
+  color: #777;
+}
+
+#steps h4
+{
+  text-transform: uppercase;
+  margin-bottom: 30px;
+}
+
 h1
 {
   font-family: 'Crete Round', serif;
@@ -35,6 +53,11 @@ a
   color: #444;
 }
 
+.clear
+{
+  clear:both;
+}
+
 wrapper
 {
   width: 940px;
@@ -53,7 +76,7 @@ img
   float: none;
   margin-top: 5px;
   height: 115px;
-  margin-left: 200px;
+  margin-left: 160px;
 }
 
 header
@@ -85,6 +108,10 @@ header nav ul li a
   text-transform: uppercase;
   font-weight: bold;
   margin-right: 20px;
+}
+
+header nav ul li a:hover{
+  background: #008000;
 }
 
 /* image principale */
@@ -129,4 +156,38 @@ header nav ul li a
   text-align: center;
   border-radius: 9px;
   font-family: 'Crete Round', serif;
+}
+
+/* STEPS */
+
+#steps ul
+{
+  margin: 50px 0 50px 65px;
+}
+
+#steps ul li
+{
+  width: 500px;
+  float: left;
+  padding-top: 140px;
+  text-align: center;
+  margin-right: 100px;
+}
+
+#steps p
+{
+  margin-bottom: 20px;
+}
+
+#step-1
+{
+  background: url('images/paper.png') no-repeat top center;
+}
+#step-2
+{
+  background: url('images/pastorr.png') no-repeat top center;
+}
+#step-3
+{
+  background: url('images/reading.png') no-repeat top center;
 }
