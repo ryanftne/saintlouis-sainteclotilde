@@ -212,3 +212,21 @@ header nav ul li a:hover{
 {
   margin-right: 20px;
 }
+
+.overlay
+{
+  background: rgba(255, 255, 255, 8.95);
+  height: 100%;
+  width: 190px;
+  padding: 20px;
+  border-radius: 10px 0 0 10px;
+}
+
+article h4
+{
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 20px;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+  text-align: center;
+}
