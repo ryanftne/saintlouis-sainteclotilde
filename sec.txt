@@ -4,3 +4,17 @@ Protection :
 - IPSec
 - SSL/TLS
 - SSH
+
+https://programmation.developpez.com/actu/310194/Python-est-desormais-plus-populaire-que-Java-et-occupe-la-deuxieme-place-de-l-index-TIOBE-en-novembre-Java-ne-fait-pas-partie-du-duo-de-tete-pour-la-premiere-fois-en-20-ans/
+
+https://www.243tech.com/meilleurs-langages-de-programmation/
+
+https://www.20minutes.fr/high-tech/2931807-20201214-etats-unis-quoi-histoire-cyberattaque-touche-gouvernement
+
+https://www.zdnet.fr/actualites/microsoft-et-fireeye-confirment-la-cyberattaque-de-solarwinds-39914821.htm
+
+https://www.google.com/search?client=opera&q=apt29&sourceid=opera&ie=UTF-8&oe=UTF-8
+
+https://cyberguerre.numerama.com/9374-sunburst-une-nouvelle-attaque-ultra-sophistiquee-menace-des-milliers-dorganisations.html
+
+https://www.google.com/search?client=opera&q=langage+lié+au+cloud&sourceid=opera&ie=UTF-8&oe=UTF-8
